@@ -1,6 +1,6 @@
 
 
-# Module 5 Final Project
+# Supervised Learning - Project Guidelines
 
 
 ## Introduction
